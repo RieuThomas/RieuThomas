@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **Reacts**
 
-- 📫 How to reach me **rieu.thomas@hotmail.com**
-
 <p>
-  <!-- Le GIF placé à droite du fun fact -->
   <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="350" style="margin-right: 40px; margin-bottom: 40px"/>
-  ⚡ Fun fact **I think I'm funny**
+- 📫 How to reach me **rieu.thomas@hotmail.com**
 </p>
+  <!-- Le GIF placé à droite du fun fact -->
+ - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
