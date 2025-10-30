@@ -4,7 +4,7 @@
  🔭 I’m currently working on **expédition-33 project**
 
 <p>
-  <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="350" style="margin-right: 40px; margin-bottom: 40px"/>
+  <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="320" style="margin-right: 20px; margin-bottom: 20px"/>
  🌱 I’m currently learning **Reacts**
 </p>
 
