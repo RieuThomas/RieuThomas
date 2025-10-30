@@ -8,7 +8,9 @@
 - 📫 How to reach me **rieu.thomas@hotmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-
+<p align="right">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding gif" width="250"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//in/thomas-rieu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/thomas-rieu/" height="30" width="40" /></a>
