@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thomas RIEU</h1>
 <h3 align="center">A Full-Stack developer in learning</h3>
 
-- 🔭 I’m currently working on **expédition-33 project**
+ 🔭 I’m currently working on **expédition-33 project**
 
 <p>
   <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="350" style="margin-right: 40px; margin-bottom: 40px"/>
-- 🌱 I’m currently learning **Reacts**
+ 🌱 I’m currently learning **Reacts**
 </p>
 
-- 📫 How to reach me **rieu.thomas@hotmail.com**
+ 📫 How to reach me **rieu.thomas@hotmail.com**
   <!-- Le GIF placé à droite du fun fact -->
- - ⚡ Fun fact **I think I'm funny**
+  ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
