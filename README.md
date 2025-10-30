@@ -9,7 +9,7 @@
 
 <p>
   <!-- Le GIF placé à droite du fun fact -->
-  <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="350" style="margin-right: 40px;"/>
+  <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="350" style="margin-right: 40px; margin-bottom: 40px"/>
   ⚡ Fun fact **I think I'm funny**
 </p>
 
