@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **rieu.thomas@hotmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+<p>
+  <!-- Le GIF placé à droite du fun fact -->
+  <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="280" style="margin-left: 10px;"/>
+  ⚡ Fun fact **I think I'm funny**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<!-- Le GIF positionné à droite sans affecter le flux -->
-<img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="issue?" align="right" width="200"/>
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
