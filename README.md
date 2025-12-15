@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas RIEU</h1>
 <h3 align="center">A Full-Stack developer in learning</h3>
+<img src="https://komarev.com/ghpvc/?username=RieuThomas&label=Profile%20views&color=0e75b6&style=flat" alt="RieuThomas" />
 
  🔭 I’m currently working on **expédition-33 project**
 
