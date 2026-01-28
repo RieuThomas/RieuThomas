@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://media1.tenor.com/m/0S1Dhb2UIVwAAAAC/esquie-mon-ami.gif" alt="funny gif" align="right" width="320" style="margin-right: 20px; margin-bottom: 20px"/>
- 🌱 I’m currently learning *Express**
+ 🌱 I’m currently learning **PHP**
 </p>
 
  📫 How to reach me **rieu.thomas@hotmail.com**
